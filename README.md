@@ -1,2 +1,2 @@
 # Snake-game
-snake game using java script and c++
+snake game using pythons pygame library
